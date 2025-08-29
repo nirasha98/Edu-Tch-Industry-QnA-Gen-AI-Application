@@ -1,0 +1,2 @@
+Building a Q\&A system for an e-learning company. They sell data-related courses and bootcamps. Thousands of learners ask questions daily on Discord or by email. This system gives them a Streamlit-based interface. Students can type questions directly. Answers are delivered instantly in one place.
+<img width="928" height="398" alt="image" src="https://github.com/user-attachments/assets/feb314ea-045a-44cf-820d-7d4a93cb75a0" />
